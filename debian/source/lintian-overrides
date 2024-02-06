@@ -1,0 +1,5 @@
+python-ssh-import-id source: file-without-copyright-information
+python-ssh-import-id source: no-debian-changes
+python-ssh-import-id source: source-contains-prebuilt-windows-binary
+python-ssh-import-id source: source-is-missing
+python-ssh-import-id source: source-package-encodes-python-version
