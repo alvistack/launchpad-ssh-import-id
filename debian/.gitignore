@@ -1,0 +1,6 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+ssh-import-id
+tmp
